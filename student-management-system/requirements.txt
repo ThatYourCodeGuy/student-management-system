@@ -1,1 +1,1 @@
-# No external dependencies required for the initial baseline
+pydantic>=2.0
